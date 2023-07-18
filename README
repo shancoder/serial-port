@@ -1,0 +1,6 @@
+串口设备通信项目
+启动类：com.example.serialport.listener.InitListener
+
+运行方式：Maven 打成jar包
+
+正式环境：将jar包放入D:\盘下，重启机器即可运行
